@@ -1,4 +1,4 @@
-# technicalArticle
+# Technical Articles
 This is a sharing of a reference article about iOS technical issues.
 
 # Articles
